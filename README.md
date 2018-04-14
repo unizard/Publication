@@ -25,7 +25,7 @@
 - Multispectral Pedestrian Detection in the Wild: A Fault-tolerant Fusion Approach, ECCV2018 submittion.
 - Visual Perception for Autonomous Driving, Ph.D Thesis Feb, 2018.
     - [Presentation](https://www.dropbox.com/s/fanh6h8cyrcljjl/Ph.D_Dissertation_YKCHOI.pdf?dl=0)
-- A New Perspective on Thermal Imaging Enhancement using Convolution Neural Network, Technical Report, 2018.
+- A New Perspective on Thermal Imaging Enhancement using Convolution Neural Network, Technical Report, 2017.
 - Two-Phase 3D Convolutional Neural Network for Object Detection, MS Thesis Feb, 2016. 
     - [ProjectPage](https://sites.google.com/site/3dcnnpp/), [Video]()
 
@@ -37,7 +37,7 @@
 - 2017 23th HumanTech Paper Award, Samsung (Gold Prize Winner)
     - [Oral Presentation]()
 - 2016 1th Deep Learning Contest, NVidia (1st place Winner)
-    - [Oral Presentation]()
+    - [Oral Presentation](https://www.gputechconf.co.kr/assets/files/presentations/1-1650-1710_DL_Contest_%EC%9E%90%EC%9C%A0%EC%A3%BC%EC%A0%9C_%EB%8C%80%EC%83%81.pdf)
 - 2016 Korea Invention Patent Exhibition, (Bronze Prize Winner)
     - [Poster]()
     
