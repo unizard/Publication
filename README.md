@@ -3,6 +3,7 @@
 ### Publications
 
 - KAIST Multi-Spectral Day/Night Data Set for Autonomous and Assisted Driving, T-ITS 2018
+    - [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8293689)
 - Multispectral Transfer Network: Unsupervised Depth Estimation for All-day Vision, AAAI2018
     - [Paper](https://www.dropbox.com/s/rlgxgblaewlbynq/aaai2018.pdf?dl=0), [Supplimentary](https://www.dropbox.com/s/d4eln78e4n3bfov/aaai2018_supp.pdf?dl=0), [Oral Presentation](https://www.slideshare.net/yukyungchoi/aaai2018oral-multispectral-transfer-network-unsupervised-depth-estimation-for-allday-vision)
 - Thermal Image Enhancement using Convolution Neural Network, IROS2016
