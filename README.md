@@ -32,9 +32,9 @@
 ### Awards & Talks
 - 2017 Annual R&D Report, KAIST (Research Highlight)
     - [Report](https://www.dropbox.com/s/c09fftsirw3dwnn/KAIST%20EE%202017%20Annual%20Report.pdf?dl=0)
-- 23th HumanTech Paper Award, Samsung (Gold Prize Winner)
+- 2017 23th HumanTech Paper Award, Samsung (Gold Prize Winner)
     - [Oral Presentation]()
-- 1th Deep Learning Contest 2016, NVidia (1st place Winner)
+- 2016 1th Deep Learning Contest, NVidia (1st place Winner)
     - [Oral Presentation]()
 - 2016 Korea Invention Patent Exhibition, (Bronze Prize Winner)
     - [Poster]()
