@@ -24,6 +24,7 @@
 ###  Technical Reports
 - Multispectral Pedestrian Detection in the Wild: A Fault-tolerant Fusion Approach, ECCV2018 submittion.
 - Visual Perception for Autonomous Driving, Ph.D Thesis Feb, 2018.
+    - [Presentation](https://www.dropbox.com/s/fanh6h8cyrcljjl/Ph.D_Dissertation_YKCHOI.pdf?dl=0)
 - A New Perspective on Thermal Imaging Enhancement using Convolution Neural Network, Technical Report, 2018.
 - Two-Phase 3D Convolutional Neural Network for Object Detection, MS Thesis Feb, 2016. 
     - [ProjectPage](https://sites.google.com/site/3dcnnpp/), [Video]()
